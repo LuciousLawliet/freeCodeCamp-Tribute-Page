@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: auto;
+  background-color: white;
+}
+
+#main {
+  width: 96%;
+  height: auto;
+  margin: auto auto;
+  padding: 20px;
+  background-color: #fff7a7;
+}
+
+#title,
+#description {
+  text-align: center;
+  margin: 10;
+}
+
+#description,
+p {
+  font-size: 20px;
+}
+
+#img-div {
+  width: 100%;
+  margin: auto auto;
+  background-color: white;
+  padding: 5%;
+}
+
+#image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
+
+figcaption {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+#tribute-info {
+  width: 100%;
+  margin: auto auto;
+  padding: 5% 17% 5% 17%;
+  text-align: left;
+}
+
+h3 {
+  font-size: 22px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+}
